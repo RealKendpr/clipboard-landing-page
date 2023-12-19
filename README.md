@@ -41,4 +41,4 @@ I will update the arrangement of the links inside the footer.
 
 ## Author
 - Website - [Kendpr](https://kendpr.blogspot.com)
-- Frontend Mentor - [@thisguyisunknown](https://www.frontendmentor.io/profile/thisguyisunknown)
+- Frontend Mentor - [@RealKendpr](https://www.frontendmentor.io/profile/RealKendpr)
